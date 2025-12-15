@@ -5,11 +5,11 @@
 }
 
 :root {
-    --primary: #2c3e50;
-    --secondary: #3498db;
-    --text: #333;
-    --text-light: #666;
-    --bg: #fff;
+    --primary: #f8f9fa;
+    --secondary: #dbb5ff;
+    --text: #f8f9fa;
+    --text-light: #f8f9fa;
+    --bg: #00003f;
     --bg-light: #f8f9fa;
     --border: #e0e0e0;
 }
