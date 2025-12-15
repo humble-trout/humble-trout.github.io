@@ -14,6 +14,12 @@
     --border: #e0e0e0;
 }
 
+@font-face {
+    font-family: 'Evanescent';
+    src: url(evanescent_p.ttf);
+}
+
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
@@ -39,6 +45,8 @@ nav {
 }
 
 nav h1 {
+    font-family: 'Evanescent';
+    src: url(evanescent_p.ttf);
     font-size: 1.25rem;
     font-weight: 600;
     color: var(--primary);
@@ -72,6 +80,8 @@ main {
 }
 
 .hero h2 {
+    font-family: 'Evanescent';
+    src: url(evanescent_p.ttf);
     font-size: 2rem;
     color: var(--primary);
     margin-bottom: 0.5rem;
@@ -87,6 +97,8 @@ section {
 }
 
 h3 {
+    font-family: 'Evanescent';
+    src: url(evanescent_p.ttf);
     font-size: 1.5rem;
     color: var(--primary);
     margin-bottom: 1rem;
@@ -141,6 +153,8 @@ h3 {
 }
 
 footer {
+    font-family: 'Evanescent';
+    src: url(evanescent_p.ttf);
     text-align: center;
     padding: 2rem;
     color: var(--text-light);
